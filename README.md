@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A5F,100:00D9FF&height=210&section=header&text=Soureesh%20Dalal&fontSize=54&fontColor=E6EDF3&animation=fadeIn&fontAlignY=34&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/banner.svg?v=1" width="100%" alt="Soureesh Dalal"/>
 
 <a href="https://soureeshdalal.github.io">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Java+17+%2F+Spring+Boot+%C2%B7+Python+%2F+FastAPI;Kafka+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+PostgreSQL;LangGraph+%C2%B7+RAG+%C2%B7+Agentic+Workflows;3%2B+years+shipping+to+production" alt="What I work with"/>
@@ -127,16 +127,16 @@ services to REST.
 <div align="center">
 
 <a href="https://github.com/soureeshdalal/Ethical_RAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soureeshdalal&repo=Ethical_RAG&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" width="49%"/>
+<img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/card-ethical-rag.svg?v=1" width="49%" alt="Ethical_RAG"/>
 </a>
 <a href="https://github.com/soureeshdalal/AI_legal_document_analyzer_Agent_team">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soureeshdalal&repo=AI_legal_document_analyzer_Agent_team&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" width="49%"/>
+<img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/card-legal.svg?v=1" width="49%" alt="AI_legal_document_analyzer_Agent_team"/>
 </a>
 <a href="https://github.com/soureeshdalal/Fine_Tune_RAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soureeshdalal&repo=Fine_Tune_RAG&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" width="49%"/>
+<img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/card-finetune-rag.svg?v=1" width="49%" alt="Fine_Tune_RAG"/>
 </a>
 <a href="https://github.com/soureeshdalal/finetuned-phi2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=soureeshdalal&repo=finetuned-phi2&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" width="49%"/>
+<img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/card-phi2.svg?v=1" width="49%" alt="finetuned-phi2"/>
 </a>
 
 </div>
@@ -166,16 +166,13 @@ on modest compute.
 
 ---
 
-### The numbers
+### Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soureeshdalal&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D&rank_icon=github" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=soureeshdalal&background=0D1117&border=30363D&stroke=30363D&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=E6EDF3" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soureeshdalal&bg_color=0D1117&color=00D9FF&line=A855F7&point=E6EDF3&area=true&area_color=1E3A5F&hide_border=false&border_color=30363D&custom_title=Contribution%20Activity" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soureeshdalal&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" height="150"/>
 
 <br/><br/>
 
@@ -207,6 +204,6 @@ especially teams putting LLMs somewhere the correctness actually matters.
 <a href="https://www.linkedin.com/in/soureeshdalal/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://soureeshdalal.github.io"><img src="https://img.shields.io/badge/Read_the_long_version-00D9FF?style=for-the-badge&logo=firefox&logoColor=0D1117"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,55:1E3A5F,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/footer.svg?v=1" width="100%" alt=""/>
 
 </div>
