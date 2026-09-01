@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/soureeshdalal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://soureeshdalal.github.io"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=0D1117"/></a>
 <a href="mailto:soureesh1211@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=soureeshdalal&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=soureeshdalal&base=500&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
