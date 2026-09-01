@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="Fine-tuned Phi-2">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="150" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#A855F7"/>
+</linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="438" height="148" rx="10"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="439" height="149" rx="10" fill="#0D1117" stroke="#30363D"/>
+<g clip-path="url(#c)"><rect x="1" y="1" width="4" height="148" fill="url(#b)"/></g>
+<text x="26" y="33" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#00D9FF">Fine-tuned Phi-2</text>
+<text x="26" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9AA7B8">Adapter fine-tuning experiments on Phi-2 for efficient</text>
+<text x="26" y="78" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9AA7B8">inference on modest compute, with notes on data curation</text>
+<text x="26" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9AA7B8">and evaluation trade-offs.</text>
+<rect x="26" y="112" width="46" height="22" rx="11" fill="#132030" stroke="#22405C"/>
+<text x="49" y="127" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#00D9FF">peft</text>
+<rect x="80" y="112" width="39" height="22" rx="11" fill="#1B1630" stroke="#3E2A63"/>
+<text x="99" y="127" text-anchor="middle" font-family="SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#C08CFF">slm</text>
+</svg>
