@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Soureesh Dalal, Backend and Distributed Systems Engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1000" y2="200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D1117"/><stop offset=".55" stop-color="#101B2E"/><stop offset="1" stop-color="#0B1524"/>
+</linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#00D9FF"/><stop offset=".5" stop-color="#6C8BF5"/><stop offset="1" stop-color="#A855F7"/>
+</linearGradient>
+<radialGradient id="gl" cx=".5" cy=".5" r=".5">
+<stop offset="0" stop-color="#00D9FF" stop-opacity=".26"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+</radialGradient>
+<pattern id="gr" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1B2637"/></pattern>
+<clipPath id="cp"><rect width="1000" height="200" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#cp)">
+<rect width="1000" height="200" fill="url(#bg)"/>
+<rect width="1000" height="200" fill="url(#gr)"/>
+<ellipse cx="840" cy="52" rx="250" ry="165" fill="url(#gl)">
+<animate attributeName="opacity" values=".7;1;.7" dur="7s" repeatCount="indefinite"/>
+</ellipse>
+<rect width="1000" height="3" fill="url(#ac)"/>
+<text x="56" y="86" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#E6EDF3">Soureesh Dalal</text>
+<text x="58" y="122" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="19" fill="#8B98A9">Backend &amp; Distributed Systems Engineer</text>
+<text x="58" y="158" font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#00D9FF">Java 17 · Spring Boot · Python · FastAPI · Kafka · Kubernetes · AWS</text>
+</g>
+</svg>
