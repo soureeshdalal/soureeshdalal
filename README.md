@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/soureeshdalal/soureeshdalal/main/assets/banner.svg?v=1" width="100%" alt="Soureesh Dalal"/>
 
 <a href="https://soureeshdalal.github.io">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Java+17+%2F+Spring+Boot+%C2%B7+Python+%2F+FastAPI;Kafka+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+PostgreSQL;LangGraph+%C2%B7+RAG+%C2%B7+Agentic+Workflows;3%2B+years+shipping+to+production" alt="What I work with"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Java+17+%2F+Spring+Boot+%C2%B7+Python+%2F+FastAPI;Kafka+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+PostgreSQL;LangGraph+%C2%B7+RAG+%C2%B7+Agentic+Workflows;MS+CS+%40+UIC+%C2%B7+Chicago%2C+IL" alt="What I work with"/>
 </a>
 
 <br/>
@@ -20,16 +20,16 @@
 
 I build the parts of a product nobody notices until they break.
 
-Three years in, mostly backend: Java 17 and Spring Boot for a digital banking and
-lending platform, now Python and FastAPI on Venmo's in-app assistant at PayPal.
-The through-line is event-driven systems — Kafka consumer groups, dead-letter
-queues, retry semantics, distributed tracing. The unglamorous machinery that
-decides whether your 3 a.m. page is a shrug or a war room.
+My work sits mostly in backend and distributed systems — REST and GraphQL
+services, event-driven pipelines on Kafka, and the retry semantics, dead-letter
+handling, and distributed tracing that decide whether a 3 a.m. page is a shrug
+or a war room. I care about correctness under load more than about a demo that
+looks good in a screenshot.
 
 I got pulled into AI the week ChatGPT broke containment in 2022, and I've spent
 the time since trying to make language models behave like production
 dependencies instead of party tricks. That means retrieval you can audit,
-citations you can click, guardrails on anything that touches money, and a human
+citations you can click, guardrails on anything consequential, and a human
 approval step before an agent does something irreversible.
 
 I'd rather ship a correct answer in 900ms than a confident wrong one in 200ms.
@@ -38,12 +38,6 @@ I'd rather ship a correct answer in 900ms than a confident wrong one in 200ms.
 
 ### What I'm working on right now
 
-**Agentic workflows at PayPal** — LangGraph routing across transaction lookup,
-dispute status, and knowledge retrieval, with structured function calling and
-approval controls on sensitive actions. Plus the RAG pipeline grounding the
-assistant in help-center content: retrieval filtering, reranking,
-citation-backed generation.
-
 **My master's thesis, under review at AAAI-27** — multilingual, multimodal
 depression-symptom classification. I built a human-validated 3,080-meme
 English→Devanagari dataset and benchmarked 20+ vision-language models (GPT-4o,
@@ -51,6 +45,12 @@ Gemini, LLaVA, Llama 4) across 7 PHQ-9 symptom categories. Best result: 0.68
 Macro-F1. An explanation-augmented prompting strategy cut the cross-lingual gap
 by up to 40%. Graduate Research Assistant at the UIC Biomedical NLP Lab; I
 finish in July 2026.
+
+**Making retrieval measurable** — nearly everything I build in the open is a
+version of the same question: can you *measure* whether a model's answer
+deserves trust, instead of asserting that it does. Ethical RAG is where that's
+gone furthest — hybrid retrieval, a verification layer, and an evaluation
+harness that scores hallucination rate rather than vibes.
 
 ---
 
@@ -99,26 +99,6 @@ finish in July 2026.
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-### Where I've worked
-
-**PayPal** · Software Engineer (Contract) · Chicago · *Jan 2026 – Present*
-Python/FastAPI microservices behind Venmo's in-app assistant — async request
-handling, Pydantic validation, Redis caching, PostgreSQL. Cut p95 latency 35%.
-Built the RAG pipeline and LangGraph agent routing. Kafka event processing with
-retry and DLQ handling plus OpenTelemetry tracing, which took 30% off incident
-MTTR. React/TypeScript on the front, where caching work dropped key load times
-from 1.8s to under 450ms.
-
-**Hexaware Technologies** · Software Engineer I · India · *Jan 2022 – Jul 2024*
-Java 11/Spring Boot microservices for a digital banking and lending platform:
-loan origination, servicing, customer onboarding, KYC/AML compliance workflows
-with auditable status tracking. Kafka and RabbitMQ for fault-tolerant settlement
-and reconciliation. Re-engineered the batch reconciliation pipeline with Spring
-Batch and SQL, taking it from 3.6 hours to 95 minutes. Migrated 30+ legacy SOAP
-services to REST.
 
 ---
 
@@ -171,8 +151,6 @@ on modest compute.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=soureeshdalal&background=0D1117&border=30363D&stroke=30363D&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=E6EDF3" height="170"/>
-
-
 
 <br/><br/>
 
